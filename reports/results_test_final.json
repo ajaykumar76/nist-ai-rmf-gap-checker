@@ -1,0 +1,1746 @@
+{
+ "t_lo": 0.42000000000000026,
+ "t_hi": 0.43000000000000027,
+ "rows": [
+  {
+   "doc": "D09",
+   "sub": "GV-1.1",
+   "gold": "addressed",
+   "top1_sim": 0.617143988609314,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+   "reason": "Identifies a legal requirement for tracking and updating applicable legal obligations for AI.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-1.6",
+   "gold": "partial",
+   "top1_sim": 0.7108016014099121,
+   "A": "addressed",
+   "passages": [
+    "An inventory of AI systems is planned for next year.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "addressed",
+   "evidence": "[2] Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "specifies a concrete process for managing AI system inventory",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-2.1",
+   "gold": "addressed",
+   "top1_sim": 0.7324526309967041,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "Clearly states a concrete practice for assigning roles and responsibilities in AI oversight",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-2.2",
+   "gold": "addressed",
+   "top1_sim": 0.7428950071334839,
+   "A": "addressed",
+   "passages": [
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+   "reason": "specific training is mentioned and assigned to certain duties",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-3.2",
+   "gold": "absent",
+   "top1_sim": 0.6878670454025269,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "Formal oversight procedures are under discussion."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "passage states a concrete practice for assigning responsibilities in writing",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-4.2",
+   "gold": "addressed",
+   "top1_sim": 0.6067312359809875,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "it names a process that fulfils the subcategory: 'write up foreseeable risks and impacts'",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "GV-6.1",
+   "gold": "addressed",
+   "top1_sim": 0.5848569273948669,
+   "A": "addressed",
+   "passages": [
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "An inventory of AI systems is planned for next year."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "It names a specific process (supplier policy) that fulfils the subcategory of Third-party risk policy.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MP-1.1",
+   "gold": "absent",
+   "top1_sim": 0.5209267735481262,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "[1] Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+   "reason": "This passage names an owner (General Counsel) and a process (updating the compliance matrix)",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MP-2.2",
+   "gold": "absent",
+   "top1_sim": 0.42579391598701477,
+   "A": "partial",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We may ask an outside expert to review important systems in future.",
+    "Formal oversight procedures are under discussion."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": " specifies a process for documenting known limits of the system",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MP-3.5",
+   "gold": "partial",
+   "top1_sim": 0.6820923089981079,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Formal oversight procedures are under discussion.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "This passage names an owner (board risk committee, individual model stewards) of human oversight processes.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MP-4.1",
+   "gold": "absent",
+   "top1_sim": 0.5442392826080322,
+   "A": "addressed",
+   "passages": [
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "explicitly names a process for mapping legal risks of third-party components in AI systems",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MP-5.1",
+   "gold": "absent",
+   "top1_sim": 0.27283990383148193,
+   "A": "absent",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily."
+   ],
+   "B": "addressed",
+   "evidence": "[1] Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "it names an owner (Teams) and a process (write up risks and impacts in a standard template) and a schedule (reviewed by risk function daily)",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-1.1",
+   "gold": "partial",
+   "top1_sim": 0.6499582529067993,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "this passage names a process, a template, that fulfills the subcategory MS-1.1 Metrics selected.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-1.3",
+   "gold": "partial",
+   "top1_sim": 0.32884714007377625,
+   "A": "absent",
+   "passages": [
+    "We may ask an outside expert to review important systems in future.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "the document requires teams to write up risks and impacts in a standard template, indicating a formal process for assessment",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-2.4",
+   "gold": "addressed",
+   "top1_sim": 0.5684814453125,
+   "A": "addressed",
+   "passages": [
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "We may ask an outside expert to review important systems in future."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "The passage names a concrete process for monitoring system behaviour in production.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-2.5",
+   "gold": "addressed",
+   "top1_sim": 0.48710954189300537,
+   "A": "addressed",
+   "passages": [
+    "A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+    "Metrics will be chosen once the system is more mature.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure."
+   ],
+   "B": "addressed",
+   "evidence": "A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+   "reason": "The document shows a specific process for validating the model and notes its limitations.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-2.7",
+   "gold": "partial",
+   "top1_sim": 0.32739365100860596,
+   "A": "absent",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "We may ask an outside expert to review important systems in future."
+   ],
+   "B": "addressed",
+   "evidence": "[1] Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "This passage states a concrete practice that fulfils the subcategory MS-2.7, as it names a process (writing up foreseeable risks and impacts) and a stakeholder (the risk function).",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-2.10",
+   "gold": "absent",
+   "top1_sim": 0.4167197346687317,
+   "A": "absent",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We may ask an outside expert to review important systems in future.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "specifies a process for documenting privacy risk",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-2.11",
+   "gold": "partial",
+   "top1_sim": 0.695712685585022,
+   "A": "addressed",
+   "passages": [
+    "Fairness testing is on the roadmap.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "Formal oversight procedures are under discussion."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The document does not provide a specific process or concrete practice for evaluating fairness and bias.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MS-3.3",
+   "gold": "absent",
+   "top1_sim": 0.40098315477371216,
+   "A": "absent",
+   "passages": [
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "We may ask an outside expert to review important systems in future.",
+    "A validation report shows the model performs consistently on representative data and notes where results may not transfer."
+   ],
+   "B": "addressed",
+   "evidence": "We may ask an outside expert to review important systems in future.",
+   "reason": "the document mentions the possibility of seeking external review, which implies a process for end-user feedback and appeal",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MG-1.4",
+   "gold": "absent",
+   "top1_sim": 0.4196454882621765,
+   "A": "absent",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers."
+   ],
+   "B": "addressed",
+   "evidence": "[1] Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "The passage names a process (writing up risks) and specifies an artefact (standard template), which fulfils the subcategory MG-1.4 Residual risk.",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MG-2.4",
+   "gold": "partial",
+   "top1_sim": 0.40158146619796753,
+   "A": "absent",
+   "passages": [
+    "A shutdown procedure is being considered.",
+    "Formal oversight procedures are under discussion.",
+    "We may ask an outside expert to review important systems in future."
+   ],
+   "B": "partial",
+   "evidence": "We may ask an outside expert to review important systems in future.",
+   "reason": "The passage mentions a possible action (asking an outside expert) but does not specify a concrete mechanism or process for superseding, disengaging or deactivating a system.",
+   "flags": []
+  },
+  {
+   "doc": "D09",
+   "sub": "MG-4.1",
+   "gold": "partial",
+   "top1_sim": 0.45145368576049805,
+   "A": "addressed",
+   "passages": [
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Teams handle updates as they see fit.",
+    "Formal oversight procedures are under discussion."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "specifies a concrete process for post-deployment monitoring",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D09",
+   "sub": "MG-4.3",
+   "gold": "addressed",
+   "top1_sim": 0.5245519280433655,
+   "A": "addressed",
+   "passages": [
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "Formal oversight procedures are under discussion.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The passages do not explicitly mention communication of incidents and errors to relevant parties and affected communities or tracking of response and recovery.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-1.1",
+   "gold": "addressed",
+   "top1_sim": 0.6171441078186035,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+   "reason": "states a concrete practice for identifying and managing legal requirements",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-1.6",
+   "gold": "addressed",
+   "top1_sim": 0.6086269617080688,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "Mechanism for inventory exists, prioritised by risk, as described in the passage",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-2.1",
+   "gold": "addressed",
+   "top1_sim": 0.7324526309967041,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "Specifically names a process for documenting roles and responsibilities",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-2.2",
+   "gold": "addressed",
+   "top1_sim": 0.7428950071334839,
+   "A": "addressed",
+   "passages": [
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "specifies a concrete process for risk management training",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-3.2",
+   "gold": "addressed",
+   "top1_sim": 0.6878670454025269,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "This passage defines a concrete process for assigning human oversight roles.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-4.2",
+   "gold": "addressed",
+   "top1_sim": 0.6067311763763428,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of the AI system in a standard template that is reviewed by the risk function.",
+   "reason": "The document states a concrete practice that fulfils the subcategory: it names an owner, a process, an artefact, a tool or a schedule.",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "GV-6.1",
+   "gold": "addressed",
+   "top1_sim": 0.5848568677902222,
+   "A": "addressed",
+   "passages": [
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "it names an owner (legal) and a process (reviewed by legal)",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MP-1.1",
+   "gold": "addressed",
+   "top1_sim": 0.5209267139434814,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "We value responsible and trustworthy AI as part of our mission.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+   "reason": "This passage names a specific process (compliance matrix) owned by a specific person (General Counsel) to track applicable legal obligations for AI.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MP-2.2",
+   "gold": "addressed",
+   "top1_sim": 0.647321343421936,
+   "A": "addressed",
+   "passages": [
+    "User guides explain the system's limits and give instructions for human review of its outputs.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "A system description is kept for every model, covering what it is for, who uses it, where it runs and what it must not be used for."
+   ],
+   "B": "addressed",
+   "evidence": "User guides explain the system's limits and give instructions for human review of its outputs.",
+   "reason": "outlines a concrete process for documenting known limits of the system",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MP-3.5",
+   "gold": "addressed",
+   "top1_sim": 0.6820923089981079,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "defines an owner for AI oversight processes, namely individual model stewards",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MP-4.1",
+   "gold": "absent",
+   "top1_sim": 0.5442392826080322,
+   "A": "addressed",
+   "passages": [
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "The passage names a process (supplier policy) and a review process (reviewed by legal), fulfilling the subcategory of mapping legal risks of third-party components.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MP-5.1",
+   "gold": "partial",
+   "top1_sim": 0.517201840877533,
+   "A": "addressed",
+   "passages": [
+    "Impact scoring is expected to be introduced later.",
+    "Remaining risks are discussed informally.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "no concrete practice or process is stated to assess impact likelihood and magnitude",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-1.1",
+   "gold": "partial",
+   "top1_sim": 0.6499582529067993,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "A risk-ranked list of AI applications is maintained by the governance office and audited twice a year."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "This passage states a concrete practice for documenting unmeasured risks.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-1.3",
+   "gold": "addressed",
+   "top1_sim": 0.36722877621650696,
+   "A": "absent",
+   "passages": [
+    "Impact scoring is expected to be introduced later.",
+    "Independent reviewers who did not build the system test it before release and sign off separately.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after."
+   ],
+   "B": "addressed",
+   "evidence": "Independent reviewers who did not build the system test it before release and sign off separately.",
+   "reason": "This passage states a concrete practice for independent assessment, as stated in MS-1.3.",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-2.4",
+   "gold": "addressed",
+   "top1_sim": 0.5684814453125,
+   "A": "addressed",
+   "passages": [
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call.",
+    "A system description is kept for every model, covering what it is for, who uses it, where it runs and what it must not be used for."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "it names a process (automated monitoring) that fulfils the subcategory of monitoring system behaviour in production",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-2.5",
+   "gold": "addressed",
+   "top1_sim": 0.48710960149765015,
+   "A": "addressed",
+   "passages": [
+    "A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+    "Metrics will be chosen once the system is more mature.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team."
+   ],
+   "B": "addressed",
+   "evidence": "A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+   "reason": "it names a specific process (validation report) and a tool (notes results)",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-2.7",
+   "gold": "addressed",
+   "top1_sim": 0.6110718250274658,
+   "A": "addressed",
+   "passages": [
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+    "A fairness report is a required release artifact for any system affecting people.",
+    "A risk-ranked list of AI applications is maintained by the governance office and audited twice a year."
+   ],
+   "B": "addressed",
+   "evidence": "The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+   "reason": "It names a process, a tool, an artefact, a schedule, or an owner.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-2.10",
+   "gold": "partial",
+   "top1_sim": 0.6243032217025757,
+   "A": "addressed",
+   "passages": [
+    "Privacy is considered where personal data is obviously involved.",
+    "Remaining risks are discussed informally.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "specifies a concrete process for documenting privacy risk",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-2.11",
+   "gold": "addressed",
+   "top1_sim": 0.5962978005409241,
+   "A": "addressed",
+   "passages": [
+    "A fairness report is a required release artifact for any system affecting people.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "addressed",
+   "evidence": "A fairness report is a required release artifact for any system affecting people.",
+   "reason": " specifies a concrete practice for documenting fairness and bias evaluation results.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MS-3.3",
+   "gold": "addressed",
+   "top1_sim": 0.40098315477371216,
+   "A": "absent",
+   "passages": [
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "A fairness report is a required release artifact for any system affecting people."
+   ],
+   "B": "addressed",
+   "evidence": "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+   "reason": "specific process for end-user feedback is described, including a clear process for tracking and addressing issues",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MG-1.4",
+   "gold": "partial",
+   "top1_sim": 0.6814320087432861,
+   "A": "addressed",
+   "passages": [
+    "Remaining risks are discussed informally.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure."
+   ],
+   "B": "addressed",
+   "evidence": "[3] Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+   "reason": "documented and communicated to those affected",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MG-2.4",
+   "gold": "addressed",
+   "top1_sim": 0.5053234100341797,
+   "A": "addressed",
+   "passages": [
+    "If a system drifts outside its approved scope, the owner can suspend it immediately under the deactivation policy.",
+    "A system description is kept for every model, covering what it is for, who uses it, where it runs and what it must not be used for.",
+    "A fairness report is a required release artifact for any system affecting people."
+   ],
+   "B": "addressed",
+   "evidence": "If a system drifts outside its approved scope, the owner can suspend it immediately under the deactivation policy.",
+   "reason": "defines a process for disengaging a system outside its intended use.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MG-4.1",
+   "gold": "addressed",
+   "top1_sim": 0.590262770652771,
+   "A": "addressed",
+   "passages": [
+    "Post-launch plans define how input from users is collected and evaluated and how the system will be changed or retired.",
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "defines automated post-deployment monitoring process",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D10",
+   "sub": "MG-4.3",
+   "gold": "addressed",
+   "top1_sim": 0.5245519280433655,
+   "A": "addressed",
+   "passages": [
+    "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+    "For high-impact use cases, our policy defines when a person must be in the loop, on the loop, or notified.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team."
+   ],
+   "B": "addressed",
+   "evidence": "Significant AI failures are communicated to the relevant teams and customers, and the response is tracked until closure.",
+   "reason": "defines a concrete process for incident communication with relevant teams and customers.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-1.1",
+   "gold": "partial",
+   "top1_sim": 0.6968011260032654,
+   "A": "addressed",
+   "passages": [
+    "Legal may be consulted on AI projects where it seems relevant.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "[3] Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "Identifies assignment of AI oversight responsibilities in writing, fulfilling the subcategory GV-1.1 Legal and regulatory requirements",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-1.6",
+   "gold": "partial",
+   "top1_sim": 0.7108016014099121,
+   "A": "addressed",
+   "passages": [
+    "An inventory of AI systems is planned for next year.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers."
+   ],
+   "B": "addressed",
+   "evidence": "An inventory of AI systems is planned for next year.",
+   "reason": "The document states a concrete practice for inventory management prioritized by risk.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-2.1",
+   "gold": "addressed",
+   "top1_sim": 0.7324526309967041,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Legal may be consulted on AI projects where it seems relevant."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "defines a concrete process for role-based responsibilities",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-2.2",
+   "gold": "addressed",
+   "top1_sim": 0.7428950071334839,
+   "A": "addressed",
+   "passages": [
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "An inventory of AI systems is planned for next year."
+   ],
+   "B": "addressed",
+   "evidence": "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+   "reason": "it names a process (role-based AI risk training)",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-3.2",
+   "gold": "absent",
+   "top1_sim": 0.6878670454025269,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "An inventory of AI systems is planned for next year.",
+    "Legal may be consulted on AI projects where it seems relevant."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "Defines a human oversight role with clear responsibilities",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-4.2",
+   "gold": "partial",
+   "top1_sim": 0.5855053663253784,
+   "A": "addressed",
+   "passages": [
+    "Impact considerations are sometimes discussed in project meetings.",
+    "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups.",
+   "reason": "specifies a concrete process for impact documentation",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "GV-6.1",
+   "gold": "addressed",
+   "top1_sim": 0.6427243947982788,
+   "A": "addressed",
+   "passages": [
+    "Legal may be consulted on AI projects where it seems relevant.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "The DPO signs off on data protection assessments for AI projects, covering training data and outputs."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "states a concrete practice that fulfils the subcategory: it names an owner, a process, an artefact, a tool or a schedule.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MP-1.1",
+   "gold": "absent",
+   "top1_sim": 0.5614115595817566,
+   "A": "addressed",
+   "passages": [
+    "Legal may be consulted on AI projects where it seems relevant.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "An inventory of AI systems is planned for next year."
+   ],
+   "B": "partial",
+   "evidence": "An inventory of AI systems is planned for next year.",
+   "reason": "The passage mentions a plan, but does not specify the intended purpose, context of use, users and applicable laws for each AI system.",
+   "flags": []
+  },
+  {
+   "doc": "D11",
+   "sub": "MP-2.2",
+   "gold": "partial",
+   "top1_sim": 0.480185329914093,
+   "A": "addressed",
+   "passages": [
+    "Limitations will be documented after launch.",
+    "The DPO signs off on data protection assessments for AI projects, covering training data and outputs.",
+    "A fairness report is a required release artifact for any system affecting people."
+   ],
+   "B": "partial",
+   "evidence": "Limitations will be documented after launch.",
+   "reason": "The passage mentions the intention to document limitations, but it is unclear when this will occur.",
+   "flags": []
+  },
+  {
+   "doc": "D11",
+   "sub": "MP-3.5",
+   "gold": "absent",
+   "top1_sim": 0.6820923089981079,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "An inventory of AI systems is planned for next year.",
+    "Legal may be consulted on AI projects where it seems relevant."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "This passage defines a concrete process for assigning responsibilities for human oversight of the AI system.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MP-4.1",
+   "gold": "partial",
+   "top1_sim": 0.6725893020629883,
+   "A": "addressed",
+   "passages": [
+    "Legal may be consulted on AI projects where it seems relevant.",
+    "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+    "Component risks are looked at when someone raises a concern."
+   ],
+   "B": "addressed",
+   "evidence": "Our supplier policy requires disclosure of models, data sources and subcontractors for any AI product, and the clauses are reviewed by legal.",
+   "reason": "This passage states a concrete practice that fulfils the subcategory by naming a process (supplier policy) and an artefact (clauses reviewed by legal).",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MP-5.1",
+   "gold": "addressed",
+   "top1_sim": 0.7565537691116333,
+   "A": "addressed",
+   "passages": [
+    "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups.",
+    "Impact considerations are sometimes discussed in project meetings.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured."
+   ],
+   "B": "addressed",
+   "evidence": "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups.",
+   "reason": "The document names a specific process that fulfils the subcategory: a likelihood-and-magnitude matrix.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-1.1",
+   "gold": "addressed",
+   "top1_sim": 0.6015539169311523,
+   "A": "addressed",
+   "passages": [
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "Role-based AI risk training is delivered each year, with advanced modules for model developers and reviewers.",
+    "Legal may be consulted on AI projects where it seems relevant."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The passages do not mention metrics or methods for measuring AI risks, or documenting unmeasured risks.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-1.3",
+   "gold": "addressed",
+   "top1_sim": 0.45087242126464844,
+   "A": "addressed",
+   "passages": [
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "Independent reviewers who did not build the system test it before release and sign off separately.",
+    "Impact considerations are sometimes discussed in project meetings."
+   ],
+   "B": "addressed",
+   "evidence": "Independent reviewers who did not build the system test it before release and sign off separately.",
+   "reason": "This passage explicitly mentions independent assessors testing the system before release.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-2.4",
+   "gold": "partial",
+   "top1_sim": 0.5028687119483948,
+   "A": "addressed",
+   "passages": [
+    "We plan to introduce monitoring after launch.",
+    "We have a general process for handling incidents.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team."
+   ],
+   "B": "partial",
+   "evidence": "We plan to introduce monitoring after launch.",
+   "reason": "mentions planning of introduction of monitoring, but no concrete process is stated.",
+   "flags": []
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-2.5",
+   "gold": "addressed",
+   "top1_sim": 0.48710960149765015,
+   "A": "addressed",
+   "passages": [
+    "A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team."
+   ],
+   "B": "addressed",
+   "evidence": "[1] A validation report shows the model performs consistently on representative data and notes where results may not transfer.",
+   "reason": "the passage names a specific practice (validation report) that fulfils the subcategory MS-2.5: Validity and reliability.",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-2.7",
+   "gold": "partial",
+   "top1_sim": 0.3393458127975464,
+   "A": "absent",
+   "passages": [
+    "A fairness report is a required release artifact for any system affecting people.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "Component risks are looked at when someone raises a concern."
+   ],
+   "B": "addressed",
+   "evidence": "A fairness report is a required release artifact for any system affecting people.",
+   "reason": "The document requires a fairness report as a release artifact, indicating the evaluation and documentation of security and resilience.",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-2.10",
+   "gold": "addressed",
+   "top1_sim": 0.5521469116210938,
+   "A": "addressed",
+   "passages": [
+    "Component risks are looked at when someone raises a concern.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "The risk treatment plan lists risks that remain after controls and who has accepted them."
+   ],
+   "B": "addressed",
+   "evidence": "Component risks are looked at when someone raises a concern.",
+   "reason": "The subcategory MS-2.10 Privacy risk is addressed by this passage, which mentions examining and documenting privacy risk.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-2.11",
+   "gold": "addressed",
+   "top1_sim": 0.5962979197502136,
+   "A": "addressed",
+   "passages": [
+    "A fairness report is a required release artifact for any system affecting people.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured.",
+    "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups."
+   ],
+   "B": "addressed",
+   "evidence": "A fairness report is a required release artifact for any system affecting people.",
+   "reason": "This passage specifies a concrete requirement for documenting fairness and bias results.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MS-3.3",
+   "gold": "addressed",
+   "top1_sim": 0.39551934599876404,
+   "A": "absent",
+   "passages": [
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "A fairness report is a required release artifact for any system affecting people.",
+    "Independent reviewers who did not build the system test it before release and sign off separately."
+   ],
+   "B": "addressed",
+   "evidence": "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+   "reason": "specifies a process for end-user feedback reporting",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MG-1.4",
+   "gold": "addressed",
+   "top1_sim": 0.7204850316047668,
+   "A": "addressed",
+   "passages": [
+    "The risk treatment plan lists risks that remain after controls and who has accepted them.",
+    "Component risks are looked at when someone raises a concern.",
+    "Evaluation criteria are chosen per use case and approved by the model risk team, including a list of risks that are not currently measured."
+   ],
+   "B": "addressed",
+   "evidence": "The risk treatment plan lists risks that remain after controls and who has accepted them.",
+   "reason": "The passage names a specific process (risk treatment plan) and a person who accepts risks (who has accepted them).",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MG-2.4",
+   "gold": "absent",
+   "top1_sim": 0.21778333187103271,
+   "A": "absent",
+   "passages": [
+    "A fairness report is a required release artifact for any system affecting people.",
+    "We have a general process for handling incidents.",
+    "Post-launch plans define how input from users is collected and evaluated and how the system will be changed or retired."
+   ],
+   "B": "addressed",
+   "evidence": "Post-launch plans define how input from users is collected and evaluated and how the system will be changed or retired.",
+   "reason": "defines how to change or retire a system after a user input evaluation process",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MG-4.1",
+   "gold": "addressed",
+   "top1_sim": 0.590262770652771,
+   "A": "addressed",
+   "passages": [
+    "Post-launch plans define how input from users is collected and evaluated and how the system will be changed or retired.",
+    "We plan to introduce monitoring after launch.",
+    "Impact considerations are sometimes discussed in project meetings."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The document does not specify a concrete plan for post-deployment monitoring, nor mentions a schedule or a responsible owner.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D11",
+   "sub": "MG-4.3",
+   "gold": "partial",
+   "top1_sim": 0.599942147731781,
+   "A": "addressed",
+   "passages": [
+    "We have a general process for handling incidents.",
+    "Impact considerations are sometimes discussed in project meetings.",
+    "The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups."
+   ],
+   "B": "addressed",
+   "evidence": "[3] The impact assessment includes a likelihood-and-magnitude matrix covering harms and benefits for all affected groups.",
+   "reason": "the document specifically mentions a process for handling incidents, including an impact assessment matrix",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-1.1",
+   "gold": "addressed",
+   "top1_sim": 0.617143988609314,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "An inventory of AI systems is planned for next year."
+   ],
+   "B": "addressed",
+   "evidence": "[1] Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+   "reason": "naming an owner (General Counsel) for tracking legal obligations",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-1.6",
+   "gold": "partial",
+   "top1_sim": 0.7108016014099121,
+   "A": "addressed",
+   "passages": [
+    "An inventory of AI systems is planned for next year.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We encourage employees to learn about responsible AI on their own."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "mechanism to write up risks exists, prioritised by risk",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-2.1",
+   "gold": "addressed",
+   "top1_sim": 0.7324526309967041,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "We encourage employees to learn about responsible AI on their own."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "Clearly names an owner (individual model stewards) and a process (assigning responsibilities in writing)",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-2.2",
+   "gold": "partial",
+   "top1_sim": 0.6318392157554626,
+   "A": "addressed",
+   "passages": [
+    "We encourage employees to learn about responsible AI on their own.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Third-party AI risk is something we intend to address in the supplier policy."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "No concrete practice is stated for staff and partners to receive AI risk management training suited to their duties.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-3.2",
+   "gold": "addressed",
+   "top1_sim": 0.6878670454025269,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "We encourage employees to learn about responsible AI on their own.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "No passage defines specific human oversight roles or policies",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-4.2",
+   "gold": "addressed",
+   "top1_sim": 0.6067312359809875,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of the AI they design, develop or deploy in a standard template that is reviewed by the risk function.",
+   "reason": "this passage explicitly names a concrete practice that fulfils the subcategory GV-4.2 Impact documentation",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "GV-6.1",
+   "gold": "partial",
+   "top1_sim": 0.7819108366966248,
+   "A": "addressed",
+   "passages": [
+    "Third-party AI risk is something we intend to address in the supplier policy.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "An inventory of AI systems is planned for next year."
+   ],
+   "B": "addressed",
+   "evidence": "Third-party AI risk is something we intend to address in the supplier policy.",
+   "reason": "This passage names a policy that fulfils the subcategory of addressing risks from third-party AI software, data and intellectual property.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MP-1.1",
+   "gold": "absent",
+   "top1_sim": 0.5209267735481262,
+   "A": "addressed",
+   "passages": [
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "We encourage employees to learn about responsible AI on their own.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "None of the passages specifically document the intended purpose, context of use, users and applicable laws for the AI system.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MP-2.2",
+   "gold": "addressed",
+   "top1_sim": 0.647321343421936,
+   "A": "addressed",
+   "passages": [
+    "User guides explain the system's limits and give instructions for human review of its outputs.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call."
+   ],
+   "B": "addressed",
+   "evidence": "User guides explain the system's limits and give instructions for human review of its outputs.",
+   "reason": "outlines a concrete process for documenting known limits and human oversight",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MP-3.5",
+   "gold": "addressed",
+   "top1_sim": 0.6820923089981079,
+   "A": "addressed",
+   "passages": [
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+    "We encourage employees to learn about responsible AI on their own.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes."
+   ],
+   "B": "addressed",
+   "evidence": "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards.",
+   "reason": "defines an assigned process for human oversight of the AI system",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MP-4.1",
+   "gold": "partial",
+   "top1_sim": 0.7528902292251587,
+   "A": "addressed",
+   "passages": [
+    "Third-party AI risk is something we intend to address in the supplier policy.",
+    "Applicable legal obligations for AI are tracked in a compliance matrix owned by the General Counsel and updated whenever the law changes.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "partial",
+   "evidence": "Third-party AI risk is something we intend to address in the supplier policy.",
+   "reason": "it names an intention to address a subcategory, but lacks a concrete process or artefact",
+   "flags": []
+  },
+  {
+   "doc": "D12",
+   "sub": "MP-5.1",
+   "gold": "absent",
+   "top1_sim": 0.3685392737388611,
+   "A": "absent",
+   "passages": [
+    "Component risks are looked at when someone raises a concern.",
+    "We have a general process for handling incidents.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "specifies a concrete process for assessing impact likelihood and magnitude",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-1.1",
+   "gold": "absent",
+   "top1_sim": 0.6499582529067993,
+   "A": "addressed",
+   "passages": [
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Third-party AI risk is something we intend to address in the supplier policy.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "addressed",
+   "evidence": "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "This passage names a process (writing up risks) and a template (standard template) that fulfils the subcategory MS-1.1 Metrics selected.",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-1.3",
+   "gold": "addressed",
+   "top1_sim": 0.35855409502983093,
+   "A": "absent",
+   "passages": [
+    "Independent reviewers who did not build the system test it before release and sign off separately.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+    "Responsibilities for AI oversight are assigned in writing, from the board risk committee down to individual model stewards."
+   ],
+   "B": "addressed",
+   "evidence": "Independent reviewers who did not build the system test it before release and sign off separately.",
+   "reason": "Names an owner (independent reviewers) and a process (testing before release)",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-2.4",
+   "gold": "addressed",
+   "top1_sim": 0.5684814453125,
+   "A": "addressed",
+   "passages": [
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call.",
+    "We have a general process for handling incidents."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "it names a process for monitoring system behaviour in production",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-2.5",
+   "gold": "partial",
+   "top1_sim": 0.41474229097366333,
+   "A": "absent",
+   "passages": [
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+    "User guides explain the system's limits and give instructions for human review of its outputs."
+   ],
+   "B": "addressed",
+   "evidence": "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+   "reason": "specifies a process for validating outputs and reliability checks",
+   "flags": [
+    "addressed_weak_hit",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-2.7",
+   "gold": "addressed",
+   "top1_sim": 0.611071765422821,
+   "A": "addressed",
+   "passages": [
+    "The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Component risks are looked at when someone raises a concern."
+   ],
+   "B": "addressed",
+   "evidence": "[1] The security team assesses each AI system for attacks and failure resilience before go-live and annually after.",
+   "reason": "evaluates and documents security and resilience",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-2.10",
+   "gold": "absent",
+   "top1_sim": 0.5521470308303833,
+   "A": "addressed",
+   "passages": [
+    "Component risks are looked at when someone raises a concern.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Third-party AI risk is something we intend to address in the supplier policy."
+   ],
+   "B": "addressed",
+   "evidence": "[2] Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+   "reason": "teams must write up risks in a standard template",
+   "flags": [
+    "evidence_not_verbatim",
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-2.11",
+   "gold": "absent",
+   "top1_sim": 0.30793556571006775,
+   "A": "absent",
+   "passages": [
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "We encourage employees to learn about responsible AI on their own.",
+    "We value responsible and trustworthy AI as part of our mission."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The document does not have a specific process for evaluating and documenting fairness and bias results.",
+   "flags": []
+  },
+  {
+   "doc": "D12",
+   "sub": "MS-3.3",
+   "gold": "addressed",
+   "top1_sim": 0.39551934599876404,
+   "A": "absent",
+   "passages": [
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team.",
+    "Independent reviewers who did not build the system test it before release and sign off separately.",
+    "We have a general process for handling incidents."
+   ],
+   "B": "partial",
+   "evidence": "We have a general process for handling incidents.",
+   "reason": "The document mentions a process, but it does not specify a channel for end-user feedback.",
+   "flags": []
+  },
+  {
+   "doc": "D12",
+   "sub": "MG-1.4",
+   "gold": "absent",
+   "top1_sim": 0.5166394114494324,
+   "A": "addressed",
+   "passages": [
+    "Component risks are looked at when someone raises a concern.",
+    "Teams must write up foreseeable risks and impacts of every AI system in a standard template that is reviewed by the risk function.",
+    "Third-party AI risk is something we intend to address in the supplier policy."
+   ],
+   "B": "partial",
+   "evidence": "Third-party AI risk is something we intend to address in the supplier policy.",
+   "reason": "The document states the intention to address third-party AI risk, but does not provide a concrete process or schedule for documenting and communicating residual risks.",
+   "flags": []
+  },
+  {
+   "doc": "D12",
+   "sub": "MG-2.4",
+   "gold": "addressed",
+   "top1_sim": 0.5053234696388245,
+   "A": "addressed",
+   "passages": [
+    "If a system drifts outside its approved scope, the owner can suspend it immediately under the deactivation policy.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call.",
+    "For high-impact use cases, our policy defines when a person must be in the loop, on the loop, or notified."
+   ],
+   "B": "addressed",
+   "evidence": "If a system drifts outside its approved scope, the owner can suspend it immediately under the deactivation policy.",
+   "reason": "defines a concrete process for suspending a system that drifts outside its scope",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MG-4.1",
+   "gold": "partial",
+   "top1_sim": 0.45145368576049805,
+   "A": "addressed",
+   "passages": [
+    "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+    "Teams handle updates as they see fit.",
+    "Operations runbooks describe how a human supervises the system day to day and who is on call."
+   ],
+   "B": "addressed",
+   "evidence": "Automated monitoring compares deployed model outputs with expected behaviour and logs deviations daily.",
+   "reason": "It names an artefact (automated monitoring) and a process (comparing deployed model outputs with expected behaviour) and specifies a schedule (daily)",
+   "flags": [
+    "addressed_needs_confirmation"
+   ]
+  },
+  {
+   "doc": "D12",
+   "sub": "MG-4.3",
+   "gold": "partial",
+   "top1_sim": 0.5999420881271362,
+   "A": "addressed",
+   "passages": [
+    "We have a general process for handling incidents.",
+    "For high-impact use cases, our policy defines when a person must be in the loop, on the loop, or notified.",
+    "Users can flag incorrect or harmful outputs in the product, and flagged cases are triaged and analysed by the quality team."
+   ],
+   "B": "absent",
+   "evidence": "",
+   "reason": "The passages only mention processes, policies, and team actions, but do not specifically state how incidents are communicated to relevant parties and affected communities.",
+   "flags": [
+    "absent_but_strong_hit"
+   ]
+  }
+ ]
+}

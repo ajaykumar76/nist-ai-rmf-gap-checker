@@ -1,0 +1,149 @@
+{
+ "note": "PARAPHRASED summaries of NIST AI RMF 1.0 subcategories (a 24-item subset), not the official text. Verify wording at the NIST AI Resource Center. Not an official NIST product.",
+ "subcategories": [
+  {
+   "id": "GV-1.1",
+   "function": "GOVERN",
+   "title": "Legal and regulatory requirements",
+   "summary": "Legal and regulatory requirements that apply to AI are identified, understood, managed and documented."
+  },
+  {
+   "id": "GV-1.6",
+   "function": "GOVERN",
+   "title": "AI system inventory",
+   "summary": "Mechanisms exist to keep an inventory of AI systems, prioritised by risk."
+  },
+  {
+   "id": "GV-2.1",
+   "function": "GOVERN",
+   "title": "Roles and responsibilities",
+   "summary": "Roles, responsibilities and lines of communication for AI risk are documented and clear to staff."
+  },
+  {
+   "id": "GV-2.2",
+   "function": "GOVERN",
+   "title": "Training",
+   "summary": "Staff and partners receive AI risk management training suited to their duties."
+  },
+  {
+   "id": "GV-3.2",
+   "function": "GOVERN",
+   "title": "Human oversight roles",
+   "summary": "Policies define the roles of humans in overseeing AI systems and in human-AI configurations."
+  },
+  {
+   "id": "GV-4.2",
+   "function": "GOVERN",
+   "title": "Impact documentation",
+   "summary": "Teams document the risks and potential impacts of the AI they design, develop or deploy."
+  },
+  {
+   "id": "GV-6.1",
+   "function": "GOVERN",
+   "title": "Third-party risk policy",
+   "summary": "Policies address risks from third-party AI software, data and intellectual property."
+  },
+  {
+   "id": "MP-1.1",
+   "function": "MAP",
+   "title": "Intended purpose and context",
+   "summary": "The intended purpose, context of use, users and applicable laws for each AI system are documented."
+  },
+  {
+   "id": "MP-2.2",
+   "function": "MAP",
+   "title": "Knowledge limits",
+   "summary": "Known limits of the system and how humans should use and oversee its output are documented."
+  },
+  {
+   "id": "MP-3.5",
+   "function": "MAP",
+   "title": "Human oversight processes",
+   "summary": "Processes for human oversight of the AI system are defined and assigned."
+  },
+  {
+   "id": "MP-4.1",
+   "function": "MAP",
+   "title": "Third-party components",
+   "summary": "Legal and other risks of third-party components in the AI system are mapped."
+  },
+  {
+   "id": "MP-5.1",
+   "function": "MAP",
+   "title": "Impact likelihood and magnitude",
+   "summary": "The likelihood and magnitude of each identified positive and negative impact are assessed."
+  },
+  {
+   "id": "MS-1.1",
+   "function": "MEASURE",
+   "title": "Metrics selected",
+   "summary": "Metrics and methods for measuring AI risks are chosen, and any risks left unmeasured are documented."
+  },
+  {
+   "id": "MS-1.3",
+   "function": "MEASURE",
+   "title": "Independent assessment",
+   "summary": "Assessors independent of the development team take part in evaluating the system."
+  },
+  {
+   "id": "MS-2.4",
+   "function": "MEASURE",
+   "title": "Production monitoring",
+   "summary": "System behaviour is monitored while in production."
+  },
+  {
+   "id": "MS-2.5",
+   "function": "MEASURE",
+   "title": "Validity and reliability",
+   "summary": "The system is shown to be valid and reliable, with limits of generalisation documented."
+  },
+  {
+   "id": "MS-2.7",
+   "function": "MEASURE",
+   "title": "Security and resilience",
+   "summary": "Security and resilience of the system are evaluated and documented."
+  },
+  {
+   "id": "MS-2.10",
+   "function": "MEASURE",
+   "title": "Privacy risk",
+   "summary": "Privacy risk of the system is examined and documented."
+  },
+  {
+   "id": "MS-2.11",
+   "function": "MEASURE",
+   "title": "Fairness and bias",
+   "summary": "Fairness and bias are evaluated and results documented."
+  },
+  {
+   "id": "MS-3.3",
+   "function": "MEASURE",
+   "title": "End-user feedback",
+   "summary": "Channels let end users and affected people report problems and appeal outcomes."
+  },
+  {
+   "id": "MG-1.4",
+   "function": "MANAGE",
+   "title": "Residual risk",
+   "summary": "Risks that remain after treatment are documented and communicated to those affected."
+  },
+  {
+   "id": "MG-2.4",
+   "function": "MANAGE",
+   "title": "Disengagement",
+   "summary": "Mechanisms exist to supersede, disengage or deactivate a system that behaves outside its intended use."
+  },
+  {
+   "id": "MG-4.1",
+   "function": "MANAGE",
+   "title": "Post-deployment monitoring plan",
+   "summary": "Post-deployment monitoring plans exist, covering user input, appeal and override, change management and decommissioning."
+  },
+  {
+   "id": "MG-4.3",
+   "function": "MANAGE",
+   "title": "Incident communication",
+   "summary": "Incidents and errors are communicated to relevant parties and affected communities, and response and recovery are tracked."
+  }
+ ]
+}
